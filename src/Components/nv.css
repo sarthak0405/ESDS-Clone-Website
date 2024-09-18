@@ -1,0 +1,36 @@
+*{
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.bg1{
+    background-color: rgba(0, 0, 0, 0.45);
+    
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+    /* color : white; */
+}
+
+.navele{
+    color: white;
+  }
+  
+.navele:hover{
+    color: #3B71CA;
+}  
+
+.joinusbtn{
+    color: white;
+}
+
+.joinusbtn:hover{
+    color: #3B71CA;
+    background-color: white;
+}
